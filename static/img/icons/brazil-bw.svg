@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="720"
+   height="504"
+   viewBox="-2100 -1470 4200 2940"
+   id="svg114"
+   sodipodi:docname="brazil_bw.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview116"
+     showgrid="false"
+     inkscape:zoom="0.83611111"
+     inkscape:cx="446.43944"
+     inkscape:cy="331.62838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg114" />
+  <defs
+     id="defs42">
+    <path
+       id="D"
+       d="M -31.5,0 h 33 a 30 30 0 0 0 30,-30 v -10 a 30 30 0 0 0 -30,-30 H -31.5 z M -18.5,-13 h 19 a 19 19 0 0 0 19,-19 v -6 a 19 19 0 0 0 -19,-19 H -18.5 z"
+       fill-rule="evenodd" />
+    <path
+       id="E"
+       d="M 0,0 h 63 v -13 H 12 v -18 h 40 v -12 h -40 v -14 H 60 v -13 H 0 z"
+       transform="translate(-31.5)" />
+    <path
+       id="e"
+       d="M -26.25,0 h 52.5 v -12 h -40.5 v -16 h 33 v -12 h -33 v -11 H 25 v -12 H -26.25 z" />
+    <g
+       id="G">
+      <clipPath
+         id="gcut">
+        <path
+           d="M -31.5,0 v -70 h 63 v 70 z M 0,-47 v 12 h 31.5 v -12 z"
+           id="path5" />
+      </clipPath>
+      <use
+         xlink:href="#O"
+         clip-path="url(#gcut)"
+         id="use8" />
+      <rect
+         x="5"
+         y="-35"
+         width="26.5"
+         height="10"
+         id="rect10" />
+      <rect
+         x="21.5"
+         y="-35"
+         width="10"
+         height="35"
+         id="rect12" />
+    </g>
+    <path
+       id="M"
+       d="M -31.5,0 h 12 v -48 l 14,48 h 11 l 14,-48 V 0 h 12 V -70 h -17.5 l -14,48 l -14,-48 H -31.5 z" />
+    <path
+       id="O"
+       d="M 0,0 a 31.5 35 0 0 0 0,-70 a 31.5 35 0 0 0 0,70 M 0,-13 a 18.5 22 0 0 0 0,-44 a 18.5 22 0 0 0 0,44"
+       fill-rule="evenodd" />
+    <path
+       id="P"
+       d="M -31.5,0 h 13 v -26 h 28 a 22 22 0 0 0 0,-44 h -40 z M -18.5,-39 h 27 a 9 9 0 0 0 0,-18 h -27 z"
+       fill-rule="evenodd" />
+    <g
+       id="R">
+      <use
+         xlink:href="#P"
+         id="use18" />
+      <path
+         d="M 28,0 c 0,-10 0,-32 -15,-32 h -19 c 22,0 22,22 22,32"
+         id="path20" />
+    </g>
+    <path
+       id="S"
+       d="M -15.75,-22 C -15.75,-15 -9,-11.5 1,-11.5 C 11,-11.5 15.74,-14.75 15.75,-19.25 C 15.75,-33.5 -31,-24.5 -30.75,-49.5 C -30.5,-71 -6,-70 3,-70 C 12,-70 29,-66 28.75,-48.75 L 13.5,-48.75 C 13.5,-56.25 6.5,-59 -1.5,-59 C -9.25,-59 -14.75,-57.75 -14.75,-50.5 C -15,-38.75 31.5,-46.5 31.5,-21.75 C 31.5,-3.5 13.5,0 0,0 C -11.5,0 -31.55,-4.5 -31.5,-22 z" />
+    <g
+       id="star"
+       fill="#fff">
+      <g
+         id="c">
+        <path
+           id="t"
+           d="M 0,-1 v 1 h .5"
+           transform="rotate(18 0,-1)" />
+        <use
+           xlink:href="#t"
+           transform="scale(-1,1)"
+           id="use25" />
+      </g>
+      <use
+         xlink:href="#c"
+         transform="rotate(72)"
+         id="use28" />
+      <use
+         xlink:href="#c"
+         transform="rotate(-72)"
+         id="use30" />
+      <use
+         xlink:href="#c"
+         transform="rotate(144)"
+         id="use32" />
+      <use
+         xlink:href="#c"
+         transform="rotate(-144)"
+         id="use34" />
+    </g>
+    <use
+       id="star1"
+       xlink:href="#star"
+       transform="scale(31.5)" />
+    <use
+       id="star2"
+       xlink:href="#star"
+       transform="scale(26.25)" />
+    <use
+       id="star3"
+       xlink:href="#star"
+       transform="scale(21)" />
+    <use
+       id="star4"
+       xlink:href="#star"
+       transform="scale(15)" />
+    <use
+       id="star5"
+       xlink:href="#star"
+       transform="scale(10.5)" />
+  </defs>
+  <path
+     style="fill:#000201;stroke-width:0.17142858;fill-opacity:1"
+     d="M 0 0 L 0 504 L 720 504 L 720 0 L 0 0 z M 360 61.199219 L 658.80078 252 L 360 442.80078 L 61.199219 252 L 360 61.199219 z "
+     transform="matrix(5.8333333,0,0,5.8333333,-2100,-1470)"
+     id="rect44" />
+  <path
+     style="fill:#000d00;stroke-width:0.17142858;fill-opacity:1"
+     d="M 360 126 A 126 126 0 0 0 244.68945 201.39648 A 306 306 0 0 1 484.56445 269.9082 A 126 126 0 0 0 486 252 A 126 126 0 0 0 360 126 z M 279.58984 216.12305 A 288 288 0 0 0 238.10742 220.7168 A 126 126 0 0 0 234 252 A 126 126 0 0 0 360 378 A 126 126 0 0 0 480.12695 289.91211 A 288 288 0 0 0 279.58984 216.12305 z "
+     transform="matrix(5.8333333,0,0,5.8333333,-2100,-1470)"
+     id="circle48" />
+  <clipPath
+     id="band">
+    <circle
+       r="735"
+       id="circle50" />
+  </clipPath>
+</svg>

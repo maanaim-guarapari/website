@@ -1,23 +1,37 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <navbar/>
     <router-view/>
+    <music-player :musics="musics" theme="red" partialHidden/>
   </div>
 </template>
 
 <script>
+
+import { mapGetters } from 'vuex'
+
+import Navbar from '@/components/navbar.vue'
+import MusicPlayer from '@/features/music/music-player.vue'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    Navbar,
+    MusicPlayer
+  },
+  computed: {
+    ...mapGetters('musics', {
+      musics: 'playlist'
+    })
+  }
 }
 </script>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<style lang="scss">
+body {
+  padding-top: $navbar-height;
+  font-family: "Raleway", sans-serif !important;
+  font-size: 14px;
+  color: rgb(99, 107, 111) !important;
 }
 </style>
