@@ -2,6 +2,19 @@ import api from '@/api/api.js'
 
 const state = {
   events: [
+    {
+      time: 1512288000,
+      date: '03/12/2017',
+      title: 'Encontro de Louvor',
+      img: '/static/img/logo.o.svg',
+      location: 'Maanaim de Guarapari',
+      description: 'O evento conta com uma taxa de inscrição de R$5,00',
+      versicle: '"Que darei eu ao Senhor, por todos os benefícios que me tem feito? Tomarei o cálice da salvação, e invocarei o nome do Senhor." Salmos 116:12,13',
+      aditional: {
+        filesLink: 'https://drive.google.com/drive/folders/1Y6j9Zo0dno9B-wMX7g9PkyqgnlonF6D5?usp=sharing',
+        subscriptionLink: 'https://docs.google.com/forms/d/e/1FAIpQLSc49qMCFfxODJo2a2KfGj0oEH25OuE0bv7Sb5jJiEnZ7lDmQA/viewform?usp=sf_link'
+      }
+    }
   ]
 }
 
