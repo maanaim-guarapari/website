@@ -39,7 +39,7 @@ export default {
     bottom: 0%;
     right: 0%;
     margin: 0px;
-    width: 350px;
+    width: 100%;
 
     .aplayer-info {
       .aplayer-controller > .aplayer-time {
@@ -58,6 +58,7 @@ export default {
 
     @media(min-width: 768px) {
       margin: 5px;
+      width: 350px;
     }
   }
 }
