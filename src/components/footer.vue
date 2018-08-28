@@ -22,7 +22,7 @@
       </b-row>
       <b-row class="footer-copyright">
         <b-col class="text-center">
-            <p>© 2017 Maanaim Guarapari - Honras e Glórias a Jesus Cristo. Amém!</p>
+            <p>© 2018 Maanaim Guarapari - Honras e Glórias a Jesus Cristo. Amém!</p>
             <p>
               Made with <fa icon="heart"/> & <fa icon="coffee"/> by <a target="_blank" href="http://gustavoamorim.xyz"> Gustavo Amorim</a> using <a target="_blank" href="https://vuejs.org"><img src="static/img/icons/vue.svg" alt="Vue.js" style="height:1rem;" /></a> and <a target="_blank" href="https://aws.amazon.com/lambda/"><img src="static/img/icons/aws-lambda.svg" alt="AWS Lambda" style="height:1rem;"/></a>
             </p>

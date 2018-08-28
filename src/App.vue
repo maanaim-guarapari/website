@@ -1,8 +1,8 @@
 <template>
   <div id="app">
+    <music-player :musics="musics" theme="#FF0000"/>
     <navbar/>
     <router-view/>
-    <music-player :musics="musics" theme="red" partialHidden/>
   </div>
 </template>
 
