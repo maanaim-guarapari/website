@@ -1,17 +1,16 @@
-// initial state
 const state = {
   musics: [
-    {
-      title: 'Aquilo que Fui não Sou Mais',
-      artist: 'ICM',
-      src: 'static/audio/0.mp3',
-      pic: 'static/img/logo.square.png'
-    },
     {
       title: 'Rádio Maanaim',
       artist: 'ICM',
       src: 'http://78.46.36.212:8068/stream',
       pic: 'static/img/radio-maanaim-logo.png'
+    },
+    {
+      title: 'Aquilo que Fui não Sou Mais',
+      artist: 'ICM',
+      src: 'static/audio/0.mp3',
+      pic: 'static/img/logo.square.png'
     },
     {
       title: 'Avulso - Revelação de Jesus Cristo',
